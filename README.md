@@ -1,6 +1,6 @@
 # Ex03 To-Do List using JavaScript
 ## Date:03/09/2025
-## Name: Swathi S
+## Name: Swathi S 
 ## Reg No: 212223040220
 
 ## AIM
